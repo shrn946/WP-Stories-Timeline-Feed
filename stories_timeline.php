@@ -174,7 +174,7 @@ function wp_3d_stories_timeline_settings_page() {
         <pre>[stories_timeline_feed number_of_stories="3"]</pre>
 
         <p>Display a custom number of latest stories with no Post Order</p>
-        <pre>[stories_timeline_feed number_of_stories="5" order="DESC" orderby="date"]</pre>
+        <pre>[stories_timeline_feed number_of_stories="5" order="DESC"]</pre>
 
     </div>
     <?php
